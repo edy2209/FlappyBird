@@ -1,0 +1,25 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1750653680
+README.md::TextFile/TextFile::-1::1750566866::0::1::::<><><>0<>0<><>::
+::res://assets/::1750567123
+bg.png::CompressedTexture2D/CompressedTexture2D::9192803788762177893::1750566866::1750567123::1::::<><><>0<>0<>ea88479439d486c6e9565c3711144d60<>res://.godot/imported/bg.png-23a59c2e9cba2223a50fa3fe41b70b25.ctex::
+bird1.png::CompressedTexture2D/CompressedTexture2D::7552353204301932291::1750566866::1750567122::1::::<><><>0<>0<>a221753417237673298269610ca314bb<>res://.godot/imported/bird1.png-a83dadb1b9374dc95e0d1b7a95119b58.ctex::
+bird2.png::CompressedTexture2D/CompressedTexture2D::2165203763518023126::1750566866::1750567122::1::::<><><>0<>0<>d84617dd3191d4bec18b5765a6f69f48<>res://.godot/imported/bird2.png-a9c593802cedb50a9374c8dc66a9b92d.ctex::
+bird3.png::CompressedTexture2D/CompressedTexture2D::4901177303925308939::1750566866::1750567122::1::::<><><>0<>0<>337e899f1b0aa2310dc43e9865840bb6<>res://.godot/imported/bird3.png-f9c6b58c0b79dca9a32430fbf9b734b9.ctex::
+ground.png::CompressedTexture2D/CompressedTexture2D::6203230542306921874::1750566866::1750567122::1::::<><><>0<>0<>f221de9c43d6db19e46684ac697c9fde<>res://.godot/imported/ground.png-328d82a69941a655cdd4638d3455ed11.ctex::
+pipe.png::CompressedTexture2D/CompressedTexture2D::7468648525441629381::1750566866::1750567122::1::::<><><>0<>0<>03d9529946f226cb6eb8e48f0c7c65e8<>res://.godot/imported/pipe.png-d1f75b14bde36399e8b8e081ce8a470c.ctex::
+restart.png::CompressedTexture2D/CompressedTexture2D::6944878011760088689::1750566866::1750567122::1::::<><><>0<>0<>b12e325164d4aaa9e01b66d46225bd0b<>res://.godot/imported/restart.png-e3341f5ab3201ffaa3fc76965a1ab56e.ctex::
+::res://audio/::1750569615
+Angry Birds Theme Song-yt.savetube.me.mp3::AudioStreamMP3/AudioStreamMP3::6520631557733278116::1750568629::1750568629::1::::<><><>0<>0<>af19f771019aa21c7fc4c88b40223196<>res://.godot/imported/Angry Birds Theme Song-yt.savetube.me.mp3-6c81407d51da51df2ff35c70471a23ce.mp3str::
+flap.mp3::AudioStreamMP3/AudioStreamMP3::4444402642454412686::1750569457::1750569615::1::::<><><>0<>0<>0fdbe0275f0a8fc3b178cdeaf3d29ee4<>res://.godot/imported/flap.mp3-0efad393cef9e45ce8cc87e06c16ffd1.mp3str::
+::res://scenes/::1750582849
+bird.gd::GDScript::3670182933623700648::1750582482::0::1::::<>CharacterBody2D<><>0<>0<><>::
+bird.tscn::PackedScene/PackedScene::4610956366753879868::1750566866::0::1::::<><><>0<>0<><>::uid://bsj4m2pw5fftg::::res://scenes/bird.gd<>uid://dfuofh4nwer0n::::res://assets/bird1.png<>uid://533ubvnyvpxe::::res://assets/bird2.png<>uid://cb3fw6j2c364v::::res://assets/bird3.png
+game_over.gd::GDScript/GDScript::6607291849895052335::1750566866::0::1::::<>CanvasLayer<><>0<>0<><>::
+game_over.tscn::PackedScene/PackedScene::1291306677066036045::1750566866::0::1::::<><><>0<>0<><>::uid://c1evep60dyxhv::::res://scenes/game_over.gd<>uid://c57fej47adq38::::res://assets/restart.png
+ground.gd::GDScript/GDScript::870848788165143907::1750566866::0::1::::<>Area2D<><>0<>0<><>::
+ground.tscn::PackedScene/PackedScene::9084329947161726892::1750566866::0::1::::<><><>0<>0<><>::uid://mn30twy50tdj::::res://scenes/ground.gd<>uid://cum5khv3jtce1::::res://assets/ground.png
+main.gd::GDScript::6017364679665397406::1750582849::0::1::::<>Node<><>0<>0<><>::
+main.tscn::PackedScene::3178911161594009601::1750582849::0::1::::<><><>0<>0<><>::uid://cry4d8nr3ldmc::::res://scenes/main.gd<>uid://d38ceuoo614k4::::res://assets/bg.png<>uid://cr3pl7yfk32tb::::res://scenes/pipe.tscn<>uid://b6xt1pam4caki::::res://scenes/bird.tscn<>uid://d2ort7tfi33lg::::res://scenes/ground.tscn<>uid://b4k5wrqs231vm::::res://audio/flap.mp3<>uid://snrvq7jkapgf::::res://scenes/game_over.tscn<>uid://cy5v34shy8s8s::::res://audio/Angry Birds Theme Song-yt.savetube.me.mp3
+pipe.gd::GDScript/GDScript::4929325586427757443::1750566866::0::1::::<>Area2D<><>0<>0<><>::
+pipe.tscn::PackedScene/PackedScene::6024786403035060627::1750566866::0::1::::<><><>0<>0<><>::uid://cch2jixsbtiyl::::res://scenes/pipe.gd<>uid://den4sx3n8oo4t::::res://assets/pipe.png

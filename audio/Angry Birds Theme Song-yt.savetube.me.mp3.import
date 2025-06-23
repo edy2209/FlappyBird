@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cy5v34shy8s8s"
+path="res://.godot/imported/Angry Birds Theme Song-yt.savetube.me.mp3-6c81407d51da51df2ff35c70471a23ce.mp3str"
+
+[deps]
+
+source_file="res://audio/Angry Birds Theme Song-yt.savetube.me.mp3"
+dest_files=["res://.godot/imported/Angry Birds Theme Song-yt.savetube.me.mp3-6c81407d51da51df2ff35c70471a23ce.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
